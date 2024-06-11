@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OML Utilities Library", "OML Utilities Library\OML Utilities Library.csproj", "{F2B8C8C9-42E6-40C1-BC2D-6314A5BCE9F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMLUtilitiesLibrary", "OML Utilities Library\OMLUtilitiesLibrary.csproj", "{F2B8C8C9-42E6-40C1-BC2D-6314A5BCE9F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTest", "ConsoleAppTest\ConsoleAppTest.csproj", "{476F21F4-4C50-4943-A65D-7FF6B3483C8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F2B8C8C9-42E6-40C1-BC2D-6314A5BCE9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2B8C8C9-42E6-40C1-BC2D-6314A5BCE9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2B8C8C9-42E6-40C1-BC2D-6314A5BCE9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476F21F4-4C50-4943-A65D-7FF6B3483C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476F21F4-4C50-4943-A65D-7FF6B3483C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476F21F4-4C50-4943-A65D-7FF6B3483C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476F21F4-4C50-4943-A65D-7FF6B3483C8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
