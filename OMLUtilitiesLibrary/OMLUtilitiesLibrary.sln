@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp", "TestConsoleApp\TestConsoleApp.csproj", "{6192452A-62A0-40B5-A7E0-E73FA15A8761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMLtoXML", "OMLtoXML\OMLtoXML.csproj", "{FC0CCBC9-919D-4159-ACC6-0137AFE986C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6192452A-62A0-40B5-A7E0-E73FA15A8761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6192452A-62A0-40B5-A7E0-E73FA15A8761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6192452A-62A0-40B5-A7E0-E73FA15A8761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6192452A-62A0-40B5-A7E0-E73FA15A8761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC0CCBC9-919D-4159-ACC6-0137AFE986C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0CCBC9-919D-4159-ACC6-0137AFE986C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0CCBC9-919D-4159-ACC6-0137AFE986C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0CCBC9-919D-4159-ACC6-0137AFE986C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA1910FE-117B-4B6C-A5CA-A1DF94D47314}
+	EndGlobalSection
+EndGlobal
