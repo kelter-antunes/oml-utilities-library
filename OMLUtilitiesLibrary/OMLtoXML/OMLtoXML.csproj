@@ -40,6 +40,9 @@
     <Reference Include="Noemax.FastInfoset.Net4">
       <HintPath>libs\Noemax.FastInfoset.Net4.dll</HintPath>
     </Reference>
+    <Reference Include="OMLUtilitiesLibrary">
+      <HintPath>..\OMLUtilitiesLibrary\obj\Debug\OMLUtilitiesLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="OutSystems.Common, Version=10.0.816.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>libs\OutSystems.Common.dll</HintPath>

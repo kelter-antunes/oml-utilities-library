@@ -9,7 +9,7 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
-            string filePath = @"C:\Users\antun\Downloads\lifetime_v11.oml";
+            string filePath = @"C:\Users\antun\Downloads\PerformanceReviewMentor.oml";
 
             Console.WriteLine($"File to convert: {Path.GetFileName(filePath)}");
 
